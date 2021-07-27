@@ -1,6 +1,6 @@
 ![Alt Text](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 - 👋 Hi, I’m @nilabjasanyal
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, HTML, CSS, JAVASCRIPT, React.js
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner's python project
 - 📫 How to reach me: 9475530199(whatsapp)
