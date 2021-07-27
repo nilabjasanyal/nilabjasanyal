@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/EoH4Wpu8suiNTLpI6j/giphy.gif)
+![Alt Text](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 - 👋 Hi, I’m @nilabjasanyal
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
