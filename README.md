@@ -5,7 +5,10 @@
 - 💞️ I’m looking to collaborate on beginner's python project
 - 📫 How to reach me: 9475530199(whatsapp)
 - 🕸  My website: https://nilabjasanyal.github.io/my_webpage/
-- [![nilabja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilabjasanyal)](https://github.com/nilabjasanyal/github-readme-stats)
+
+
+
+[![nilabja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilabjasanyal)](https://github.com/nilabjasanyal/github-readme-stats)
 
 
 <!---
