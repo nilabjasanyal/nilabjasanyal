@@ -8,7 +8,7 @@
 
 
 
-[![nilabja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilabjasanyal)](https://github.com/nilabjasanyal/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nilabjasanyal)](https://github.com/nilabjasanyal/github-readme-stats)
 
 
 <!---
