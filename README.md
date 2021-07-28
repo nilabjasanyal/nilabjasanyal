@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @nilabjasanyal
 - 👀 I’m interested in Python, HTML, CSS, JAVASCRIPT, React.js
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on beginner's python project
+- 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me: 9475530199(whatsapp)
 - 🕸  My website: https://nilabjasanyal.github.io/my_webpage/
 
