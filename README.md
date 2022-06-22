@@ -1,7 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 - 👋 Hi, I’m @nilabjasanyal
-- 👀 I’m interested in Python, HTML, CSS, JAVASCRIPT, React.js
-- 🌱 I’m currently learning Python
+- 👀 I’m competant at Python, JAVASCRIPT, C++, C, HTML, CSS.
+- 🌱 I’m currently a Data science intern at mavenmagnet
 - 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me: 9475530199(whatsapp)
 - 🕸  My website: https://nilabjasanyal.github.io/my_webpage/
