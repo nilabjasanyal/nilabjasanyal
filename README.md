@@ -4,7 +4,7 @@
 - 🌱 Ex-Data science intern at mavenmagnet
 - 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me: 9475530199(whatsapp)
-- 🕸  My website: https://nilabjasanyal.github.io/my_webpage/
+- 🕸  My website: https://nilabjasanyal.netlify.app/
 
 
 
